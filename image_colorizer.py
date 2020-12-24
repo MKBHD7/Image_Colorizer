@@ -4,7 +4,7 @@ import pandas as pd
 import re
 import urllib
 
-os.chdir(r'C:\Users\MOHAMMED MUZZAMMIL\Desktop\parking_hack')
+#os.chdir(r'C:\Users\MOHAMMED MUZZAMMIL\Desktop\parking_hack')
 
 db_file="data.db"
 
